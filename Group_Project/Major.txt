@@ -1,0 +1,150 @@
+1:Accounting:2012
+2:Economics:2013
+3:Finance:2014
+4:Health Administration:2017
+5:Hospitality Management:2017
+6:International Business & Trade:2017
+7:Management- Leaderhsip & Entrepreneurship:2017
+8:Management Information Systems:2016
+9:Marketing:2018
+10:Anthropology:2004
+11:Arts and Humanities:2004
+12:Communication and Multimedia Studies:2003
+13:Comparative Studies:2003
+14:English:2004
+15:History:2004
+16:Jewish Studies:2004
+17:"Languages, Linguistics, and Comparative Literature":2003
+18:Liberal Studies:2004
+19:Music:2000
+20:Philosophy:2004
+21:Political Science:2004
+22:Social Science:2004
+23:Sociology:2004
+24:Theater:2001
+25:Visual Arts and Art History:2002
+26:Women's Studies:2003
+27:Speech Pathology and Audiology:2005
+28:Architecture:2019
+29:Criminal Justice :2020
+30:Criminology and Criminal Justice:2020
+31:Public Management:2021
+32:Public Safety Administration:2021
+33:Public Administration:2021
+34:Nonprofit Management:2021
+35:Social Work:2022
+36:Urban Design:2023
+37:Counseling:2006
+38:Counselor Education/Mental Health:2006
+39:School Counseling K-12:2006
+40:Counselor Education/Rehab Mental Health:2006
+41:Counselor Education/Rehabilitation:2006
+42:Early Child Care and Education:2007
+43:Curriculum and Instruction:2007
+44:TESOL and Bilingual Education:2007
+45:Early Childhood Education:2007
+46:Social Foundations- Multicultural Education:2007
+47:Adult and Community Leadership:2008
+48:Educational Leadership K-12:2008
+49:Higher Education:2008
+50:Early Child Care and Education:2009
+51:Exceptional Student Education:2009
+52:Exceptional Student Education/ESOL K-12:2009
+53:Applied Behavior Analysis:2009
+54:Infant Toddler Developmental Specialist:2009
+55:Gifted Education:2009
+56:Pre-K Disabilities:2009
+57:Exercise Science Health Promotion:2010
+58:Art Education:2011
+59:Biology Education:2011
+60:Chemistry Education:2011
+61:Elementary Education/ESOL K-6:2011
+62:English Education:2011
+63:French Education:2011
+64:Math Education:2011
+65:Music Education:2011
+66:Physics Education:2011
+67:Social Science Education:2011
+68:Spanish Education:2011
+69:Curriculum and Instruction Plus Cert Art:2011
+70:Curriculum and Instruction Plus Cert Biology:2011
+71:Curriculum and Instruction Plus Cert Chemistry:2011
+72:Curriculum and Instruction Plus Cert English:2011
+73:Curriculum and Instruction Plus Cert French:2011
+74:Curriculum and Instruction Plus Cert German:2011
+75:Curriculum and Instruction Plus Cert Math:2011
+76:Curriculum and Instruction Plus Cert Music:2011
+77:Curriculum and Instruction Plus Cert Physics:2011
+78:Curriculum and Instruction Plus Cert Social Science:2011
+79:Curriculum and Instruction Plus Cert Spanish:2011
+80:Elementary Education:2011
+81:Elementary Education Plus Certification:2011
+82:Environmental Education:2011
+83:Reading Education:2011
+84:Social Foundations Educational Psychology:2011
+85:Social Foundations Instructional Technology:2011
+86:Civil Engineering:2024
+87:Geomatics Engineering:2024
+88:Environmental Engineering:2024
+89:Bioengineering:2026
+90:Computer Engineering:2026
+91:Computer Science:2026
+92:Electrical Engineering:2026
+93:Information Engineering Technology:2026
+94:Ocean Engineering:2025
+95:Mechanical Engineering:2025
+96:American Studies:2027
+97:Anthropoloty:2027
+98:Art:2027
+99:Biological Chemistry:2027
+100:Biology:2027
+101:Business:2027
+102:Chemistry:2027
+103:Economics:2027
+104:English Literature:2027
+105:Environmental Studies:2027
+106:History:2027
+107:Interdisciplinary Critical Theory:2027
+108:International Studies:2027
+109:Latin American Studies:2027
+110:Law and Society:2027
+111:Marine Biology:2027
+112:Mathematics:2027
+113:Mathematical Sciences:2027
+114:Philosophy:2027
+115:Physics:2027
+116:Political Science:2027
+117:Pre-Med:2027
+118:Psychology:2027
+119:Spanish:2027
+120:Women's Studies:2027
+121:Medical Degree:2028
+122:Biomedical Science:2028
+123:Biology:2029
+124:Neuroscience and Behavior:2029
+125:Biological Sciences:2029
+126:Biotechnology:2029
+127:Environmental Science:2029
+128:Chemistry:2030
+129:Biochemistry:2030
+130:Geography:2031
+131:Geology- Earth and Space Science:2031
+132:Geographic Information Systems:2031
+133:Mathematics:2032
+134:Statistics:2032
+135:Actuarial Science:2032
+136:Physics:2033
+137:Psychology:2024
+138:Neuroscience and Behavior:2025
+139:General-Experimental Psychology:2026
+140:Clinical Psychology:2026
+141:Counseling Psychology:2026
+142:Business Administration:2017
+143:Business Analytics:2016
+144:Business Law:2012
+145:Entrepreneurship:2017
+146:Health Services:2017
+147:Healthcare Information Systems:2016
+148:Information Security:2016
+149:Operations Management:2016
+150:Real Estate:2017
